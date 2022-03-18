@@ -1,5 +1,6 @@
 # Sketch 2 Graybox
  
+# Setup
 To interpret a 2D sketch, run s2g_main in code directory after installing dependencies. 
 File paths are absolute so convert to work with your machine. 
 
